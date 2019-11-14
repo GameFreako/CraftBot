@@ -1,0 +1,6 @@
+[
+  "config:Modify configuration for the bot.",
+  "invite:Generate an invitiation link for the bot.",
+  "IP:View the IP Address of the server.",
+  "Server:Ping the server specified in config."
+]
