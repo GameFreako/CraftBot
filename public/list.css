@@ -1,0 +1,41 @@
+.content {
+  background-color: darkgray !important;
+}
+
+.columns .bot-img {
+  box-shadow: none !important;
+}
+
+#topdiv {
+  background-color: gray;
+  color: black;
+  border-color: gray;
+  border-radius: 25px;
+  border-style: solid;
+  border-width: 10px;
+}
+
+a {
+  color: black;
+}
+
+#notice {
+  background-color: red;
+  color: black;
+  border-color: red;
+  border-radius: 25px;
+  border-style: solid;
+  border-width: 5px;
+  text-align: center;
+}
+
+#notice h3 {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  color: darkred;
+}
+
+#notice p {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
